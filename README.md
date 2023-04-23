@@ -5,6 +5,7 @@ Front-end boilerplate using React.js, Redux, Material UI, and many more. This a 
 ## Features
 
 - Vite.js for overall bundling.
+- Vitest for unit testing.
 - React.js library for web app development.
 - Redux(classic) and thunk for centralized state management.
 - React-router for routing.
@@ -12,6 +13,10 @@ Front-end boilerplate using React.js, Redux, Material UI, and many more. This a 
 - UI libraries like Material UI, carousel, spinners, etc.
 - Axios for api consumptions.
 - UUID for unique id generator.
+
+<p align="center">
+  <img src="https://abeljrgit.github.io/assets/React-and-Redux.drawio.png">
+</p>
 
 ## Run Locally
 
@@ -39,13 +44,13 @@ Production
   npm run build
 ```
 
-UAT
+Uat
 
 ```bash
   npm run build:uat
 ```
 
-STAGING
+Staging
 
 ```bash
   npm run build:staging
@@ -60,6 +65,10 @@ Test your work(npm, vitest)
 ## Folder Structure
 
 Implemented presentation-domain-data architecture.
+
+<p align="center">
+  <img src="https://abeljrgit.github.io/assets/Presentation-Domain-Data.drawio.png">
+</p>
 
     src
     ├── data
