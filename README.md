@@ -86,6 +86,14 @@ Implemented presentation-domain-data architecture.
         ├── modules
         └── routes
 
+## Deployment
+
+✅ Netlify  
+✅ Vercel  
+✅ Azure  
+❌ AWS  
+❌ GCP
+
 ## Documentation
 
 [Vite.JS](https://vitejs.dev/guide/)  
