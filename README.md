@@ -88,11 +88,14 @@ Implemented presentation-domain-data architecture.
 
 ## Deployment
 
+- ✅(Tested)
+- ❓(Not Tested)
+
 ✅ Netlify  
 ✅ Vercel  
 ✅ Azure  
-❌ AWS  
-❌ GCP
+❓ AWS  
+❓ GCP
 
 ## Documentation
 
